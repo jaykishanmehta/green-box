@@ -6,21 +6,24 @@ hackathon:
 
 premise:
   info:
-    - 
-      part: Floor1
-      capacity: 100
-      controller: 2
-    - 
-      part: Floor2
-      capacity: 80
-      controller: 2
-    - 
-      part: Floor3
-      capacity: 110
-      controller: 2
-    - 
-      part: Floor4
-      capacity: 60
-      controller: 1
+    name: Nagarro Campus
+    totalFloors: 4
+    floorDetails:
+      - 
+        sectionName: Floor1
+        capacity: 100
+        controller: 2
+      - 
+        sectionName: Floor2
+        capacity: 80
+        controller: 2
+      - 
+        sectionName: Floor3
+        capacity: 110
+        controller: 2
+      - 
+        sectionName: Floor4
+        capacity: 60
+        controller: 1
 
 
