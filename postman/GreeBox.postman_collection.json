@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "fe6eca98-0fde-4353-a085-646aa491c0af",
+		"name": "GreeBox",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20674208"
+	},
+	"item": [
+		{
+			"name": "Project Details",
+			"item": [
+				{
+					"name": "Porject Info",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
