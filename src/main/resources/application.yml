@@ -1,0 +1,26 @@
+hackathon:
+  greebox:
+    info:
+      team-name: Brainbox Ninjas
+      project-name: Nagarro Green Campus
+
+premise:
+  info:
+    - 
+      part: Floor1
+      capacity: 100
+      controller: 2
+    - 
+      part: Floor2
+      capacity: 80
+      controller: 2
+    - 
+      part: Floor3
+      capacity: 110
+      controller: 2
+    - 
+      part: Floor4
+      capacity: 60
+      controller: 1
+
+
